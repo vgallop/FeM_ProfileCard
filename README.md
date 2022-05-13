@@ -26,8 +26,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/vgallop/FeM_ProfileCard)
-- Live Site URL: [Add live site URL here](https://vgallop.github.io/FeM_ProfileCard/)
+- Solution URL: [https://github.com/vgallop/FeM_ProfileCard](https://github.com/vgallop/FeM_ProfileCard)
+- Live Site URL: [https://vgallop.github.io/FeM_ProfileCard/](https://vgallop.github.io/FeM_ProfileCard/)
 
 ## My process
 
